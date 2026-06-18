@@ -308,7 +308,7 @@ If you find SingGuard helpful, please cite our work:
 ```bibtex
 @article{singguard2026,
   title={SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning},
-  author={Ant Group},
+  author={Li, Zongyi and Yin, Shenglin and Liao, Bingyan and Bai, Yichen and He, Liangbo and Xiu, Kedong and Li, Hongcheng and Lan, Jun and Cui, Shiwen and Xu, Tingting and Song, Chuanbiao and Yu, Zijian and Hong, Yan and Li, Siyuan and Xu, Chao and Zhu, Huijia and Meng, Changhua and Wang, Weiqiang},
   year={2026}
 }
 ```
