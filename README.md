@@ -1,14 +1,8 @@
 <a name="readme-top"></a>
 
-<p align="center">
-  <img src="assets/s_icon.png" width="96" alt="SingGuard logo"/>
-</p>
-
-<h1 align="center">SingGuard</h1>
-
-<p align="center">
-  <b>Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning</b>
-</p>
+<h1 align="center">
+  <img src="assets/s_icon.png" width="48" alt="SingGuard logo"/> SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning
+</h1>
 
 <p align="center">
   🤗 <a href="https://huggingface.co/collections/inclusionAI/sing-guard"><b>Hugging Face</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;
