@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <h1 align="center">
-  <img src="assets/s_icon.png" width="48" alt="SingGuard logo" style="vertical-align: -11px;"/> SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning
+  <sub><img src="assets/s_icon.png" width="48" alt="SingGuard logo"/></sub> SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning
 </h1>
 
 <p align="center">
