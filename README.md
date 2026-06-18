@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <h1 align="center">
-  <img src="assets/s_icon.png" width="48" alt="SingGuard logo"/> SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning
+  <img src="assets/s_icon.png" width="48" alt="SingGuard logo" style="vertical-align: -11px;"/> SingGuard: Policy-Adaptive Multimodal Safeguarding with Dynamic Reasoning
 </h1>
 
 <p align="center">
@@ -9,8 +9,6 @@
   🤖 <a href="https://modelscope.cn/collections/inclusionAI/Sing-Guard"><b>ModelScope</b></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📄 <a href="#citation"><b>Technical Report</b></a>
 </p>
-
-Visit the Hugging Face or ModelScope collection above, search checkpoints with names starting with `Sing-Guard`, and use the model with standard Transformers or vLLM-style chat messages.
 
 # SingGuard
 
