@@ -34,6 +34,7 @@ SingGuard is designed for practical moderation settings where risks may arise fr
 
 ## News
 
+* **2026/06/22**: Refreshed the SingGuard technical report PDF in this repository.
 * **2026/06/17**: We initialized the public GitHub repository for SingGuard.
 * **Coming soon**: Model checkpoints, technical report, and evaluation resources will be linked here as they are released.
 
